@@ -170,7 +170,7 @@ body{background:var(--neutral-98);color:#283747;font-size:var(--fs-body-medium);
 .footer-list-title{margin-block-end: 1rem;}.footer-list{display: grid; gap: 1rem;}
 .footer-link{transition: .2s ease;}.footer-link:where(:hover, :focus-visible){color: var(--primary-100);}
 .social-list{display: flex; gap: 1.5rem; align-items: center;}
-.footer-bottom{border-block-start: 1px solid #193047;}.footer-bottom .container{padding-block: 1.5rem; display: flex;flex-direction: column; gap: .5rem;} .footer-bottom .container p{display: flex; align-items: center; gap: .3rem;}
+.footer-bottom{border-block-start: 1px solid #193047;}.footer-bottom .container{padding-block: 1.5rem; display: flex;flex-direction: column; gap: .5rem;} .footer-bottom .container p{display: flex; align-items: center; gap: .3rem; justify-content:center;}
 .afrid{transition: .2s ease;}.afrid:where(:hover, :focus-visible){ text-decoration: underline;}
 .footer .social-link img{width: 20px;}
 
